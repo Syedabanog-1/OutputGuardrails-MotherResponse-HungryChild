@@ -45,7 +45,10 @@ If not → isFoodReady = False
 
 **All actions are logged with rich formatting for transparency.
 
+Use Case Potential:
+Ideal for AI simulations in parenting, emotion-aware agents, and response monitoring. Can be extended to caregiving bots, education agents, or empathy training AI.
 
+***Built using: *** OpenAI Agent SDK, Pydantic, AsyncIO, and Rich.
 
 https://github.com/user-attachments/assets/37b5ce64-656f-4299-8f85-8c423e9b3a7f
 
