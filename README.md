@@ -3,7 +3,6 @@
 "Intelligent Child-Mother Simulation using Output Guardrails in OpenAI Agent SDK"
 
 Objective:
-**********
 To simulate a realistic interaction between a hungry child and a mother, using AI agents and Output Guardrails to monitor and validate responses based on emotional needs and conditions — such as food readiness.
 
 Key Features:
@@ -30,8 +29,7 @@ Uses trace() and rich.print() for visual debugging and detailed step-wise logs.
 
 ✅ Resilient Execution:
 
-Workflow Overview:
-*****************
+***Workflow Overview:***
 
 **Mother Agent replies to the child's hunger message.
 
