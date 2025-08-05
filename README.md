@@ -1,11 +1,12 @@
-** Project Highlight: "Intelligent Child-Mother Simulation using Output Guardrails in OpenAI Agent SDK"
+** Project Highlight:
+
+"Intelligent Child-Mother Simulation using Output Guardrails in OpenAI Agent SDK"
 
 Objective:
 **********
 To simulate a realistic interaction between a hungry child and a mother, using AI agents and Output Guardrails to monitor and validate responses based on emotional needs and conditions — such as food readiness.
 
 Key Features:
-*************
 
 ✅ Two AI Agents:
 
